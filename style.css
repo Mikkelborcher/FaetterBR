@@ -125,3 +125,17 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+.andersand {
+    max-width: 110px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mickey {
+    max-width: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
